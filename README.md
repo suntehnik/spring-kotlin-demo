@@ -24,4 +24,4 @@ Technological stack:
 - all data is stored in Firebase Realtime DB (as per current project design)
 - HomeController service subscribes to Realtime DB changes of categories and shops and caches provided data
 - for each HTTP GET request service responds with actual top shops and categories list
-- shops rotated every 15m or so, rotation is done on another service
+- shops rotated every 15m or so, separate service is responsible for database updates
