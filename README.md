@@ -25,3 +25,5 @@ Technological stack:
 - HomeController service subscribes to Realtime DB changes of categories and shops and caches provided data
 - for each HTTP GET request service responds with actual top shops and categories list
 - shops rotated every 15m or so, separate service is responsible for database updates
+
+Live demo at: http://95.216.139.136:8080/home
