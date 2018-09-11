@@ -4,6 +4,7 @@ Aim of this project is to demonstrate basic Spring.io knowledge.
 Background
 - Marlin Shopping mobile app expose multiple data types on the home page, including user profile info, 
 product categories and top offers from partners (see screenshots)
+
 ![Home page with sops](https://github.com/suntehnik/spring-kotlin-demo/blob/master/Screenshot_1536689588.png)
 ![Home page scrolled down to categories](https://github.com/suntehnik/spring-kotlin-demo/blob/master/Screenshot_1536689603.png)
 - Each of data types has different schema
