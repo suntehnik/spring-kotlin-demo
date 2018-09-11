@@ -18,5 +18,6 @@ class Shop {
 class Category {
     var id: String = ""
     var name: String = ""
+    var icon: String = ""
     var count_offers: Int = 0
 }
